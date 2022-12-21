@@ -114,3 +114,13 @@ C:\Users\USUARIO\Desktop\prova-main\WebApi\obj\Debug\netcoreapp3.1\WebApi.csproj
 C:\Users\USUARIO\Desktop\prova-main\WebApi\obj\Debug\netcoreapp3.1\WebApi.dll
 C:\Users\USUARIO\Desktop\prova-main\WebApi\obj\Debug\netcoreapp3.1\WebApi.pdb
 C:\Users\USUARIO\Desktop\prova-main\WebApi\obj\Debug\netcoreapp3.1\WebApi.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\prova-main\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\USUARIO\Desktop\prova-main\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USUARIO\Desktop\prova-main\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\USUARIO\Desktop\prova-main\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USUARIO\Desktop\prova-main\WebApi\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USUARIO\Desktop\prova-main\WebApi\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\USUARIO\Desktop\prova-main\WebApi\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\USUARIO\Desktop\prova-main\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USUARIO\Desktop\prova-main\WebApi\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USUARIO\Desktop\prova-main\WebApi\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll

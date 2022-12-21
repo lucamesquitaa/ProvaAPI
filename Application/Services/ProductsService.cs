@@ -67,6 +67,11 @@ namespace Application.Services
                         return pesquisa;
                     }
                 }
+                if(page > 0 || pageSize > 0)//aqui faz a paginação
+                {
+                    var paginacao = await _context.Produtos.Skip(page).Take(pageSize).ToListAsync();
+                    return paginacao;
+                }
                 var response = await _context.Produtos.ToListAsync();
                 return response;
             }
