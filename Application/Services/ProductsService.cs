@@ -18,6 +18,11 @@ namespace Application.Services
         {
             _context = context;
         }
+
+        public ProductsService()
+        {
+        }
+
         public async Task<Produtos> Add(Produtos obj)
         {
             try
